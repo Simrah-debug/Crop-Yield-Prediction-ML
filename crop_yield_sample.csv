@@ -1,0 +1,251 @@
+Year,State,District,Crop,Area_hectares,Rainfall_mm,Avg_Temperature_C,Humidity_pct,Fertilizer_kg_per_hectare,Soil_Type,Yield_quintals_per_hectare
+2021,Uttar Pradesh,D,Wheat,7.58,820.7,23.4,49.6,116.4,Loamy,155.66
+2018,Maharashtra,A,Wheat,10.62,693.1,25.3,53.1,71.7,Loamy,143.95
+2022,Maharashtra,D,Maize,35.85,409.5,31.3,65.6,109.1,Clayey,160.15
+2019,Karnataka,C,Maize,24.95,744.1,18.8,48.9,58.7,Loamy,202.47
+2021,Uttar Pradesh,E,Maize,37.85,871.5,30.3,59.5,121.5,Loamy,294.89
+2017,Uttar Pradesh,D,Wheat,5.59,682.5,26.8,73.1,150.3,Sandy,96.17
+2021,Bihar,E,Maize,27.06,761.4,21.4,69.5,150.4,Sandy,205.39
+2022,Uttar Pradesh,A,Maize,19.25,769.2,19.5,59.7,122.0,Sandy,183.67
+2019,Uttar Pradesh,E,Wheat,23.12,1071.4,22.3,81.9,82.5,Sandy,204.24
+2018,Uttar Pradesh,E,Rice,30.4,728.1,15.9,83.9,61.0,Sandy,201.23
+2022,Punjab,B,Wheat,25.36,1071.3,23.0,65.3,58.0,Sandy,199.66
+2022,Bihar,B,Maize,27.22,257.5,27.5,40.3,15.8,Sandy,81.28
+2017,Maharashtra,B,Wheat,24.57,1069.6,23.1,73.9,120.8,Clayey,238.9
+2020,Karnataka,E,Rice,20.74,1059.5,30.6,42.1,96.9,Clayey,275.35
+2019,Maharashtra,C,Wheat,38.71,980.5,31.6,79.8,127.3,Clayey,255.52
+2016,Bihar,E,Maize,1.1,397.6,30.1,75.8,142.8,Clayey,30.3
+2022,Karnataka,C,Rice,30.12,1003.8,25.9,82.7,103.0,Sandy,270.85
+2020,Bihar,C,Maize,28.49,790.0,15.7,67.6,104.4,Clayey,223.1
+2016,Uttar Pradesh,B,Rice,35.95,294.1,22.2,61.4,86.1,Sandy,131.58
+2019,Karnataka,D,Rice,30.15,1059.6,24.4,60.5,89.6,Clayey,311.99
+2015,Uttar Pradesh,A,Wheat,41.43,1088.8,21.4,59.5,121.9,Loamy,302.56
+2020,Maharashtra,B,Wheat,47.97,419.1,24.4,74.8,94.8,Clayey,151.45
+2023,Maharashtra,B,Maize,17.45,835.1,31.4,72.1,90.4,Clayey,199.63
+2015,Karnataka,D,Wheat,11.75,1077.7,18.4,66.2,99.5,Sandy,160.22
+2017,Karnataka,A,Wheat,21.47,1046.0,32.2,57.8,126.6,Clayey,226.46
+2021,Bihar,E,Rice,14.75,967.2,28.5,91.3,79.2,Loamy,234.84
+2018,Bihar,E,Wheat,30.94,270.5,26.1,74.1,98.0,Sandy,115.63
+2023,Uttar Pradesh,B,Rice,45.64,945.9,22.1,49.0,107.4,Sandy,286.79
+2017,Karnataka,A,Rice,7.39,756.4,21.5,59.8,134.8,Clayey,165.09
+2019,Maharashtra,B,Rice,5.49,999.2,18.5,74.3,92.8,Sandy,139.36
+2017,Bihar,C,Maize,13.17,851.2,31.9,57.0,78.5,Sandy,160.97
+2021,Bihar,B,Maize,36.44,796.0,31.2,68.5,85.5,Sandy,218.09
+2019,Maharashtra,B,Maize,29.85,928.2,19.4,74.5,131.6,Sandy,245.88
+2023,Bihar,E,Rice,5.56,765.6,22.8,31.1,161.0,Sandy,132.36
+2021,Uttar Pradesh,E,Maize,45.98,795.1,26.7,63.9,60.6,Sandy,218.25
+2016,Karnataka,E,Maize,39.61,689.0,23.8,64.3,67.1,Loamy,241.37
+2018,Maharashtra,C,Wheat,1.64,478.9,17.3,60.9,94.9,Clayey,51.21
+2023,Karnataka,E,Maize,32.74,913.6,22.4,68.0,103.3,Loamy,289.88
+2016,Bihar,A,Maize,38.68,638.8,32.8,71.6,123.6,Sandy,206.65
+2023,Bihar,D,Rice,19.03,759.8,22.6,66.4,73.3,Sandy,181.76
+2019,Maharashtra,A,Rice,3.91,857.4,24.3,61.3,68.1,Clayey,122.28
+2016,Uttar Pradesh,A,Rice,4.33,383.0,20.4,71.3,104.1,Loamy,92.69
+2018,Punjab,E,Rice,5.66,427.7,27.4,65.5,92.2,Clayey,91.67
+2021,Maharashtra,D,Rice,42.1,740.1,25.5,62.7,127.8,Loamy,302.94
+2022,Punjab,D,Rice,45.58,890.9,22.0,51.9,114.6,Sandy,284.99
+2017,Punjab,D,Maize,6.58,948.8,19.8,49.4,116.7,Clayey,153.51
+2015,Uttar Pradesh,C,Rice,12.18,481.7,30.6,51.7,96.9,Clayey,129.66
+2018,Punjab,E,Rice,8.69,927.3,18.6,67.8,170.7,Sandy,178.48
+2016,Punjab,D,Wheat,9.72,751.0,27.0,64.2,74.9,Clayey,125.61
+2022,Uttar Pradesh,C,Maize,41.96,623.4,16.4,50.2,118.3,Loamy,241.75
+2018,Punjab,B,Maize,16.94,670.3,27.8,71.5,61.9,Loamy,179.99
+2016,Punjab,B,Maize,15.92,960.4,28.9,78.7,67.8,Loamy,230.49
+2020,Punjab,C,Rice,11.76,854.8,29.4,59.0,81.8,Loamy,209.34
+2020,Maharashtra,C,Rice,30.59,810.1,24.4,47.6,148.9,Sandy,248.32
+2018,Maharashtra,E,Rice,19.28,848.7,31.3,57.9,107.9,Clayey,232.65
+2020,Maharashtra,E,Wheat,37.34,985.6,34.2,73.5,82.3,Loamy,264.57
+2016,Uttar Pradesh,B,Rice,10.68,780.6,23.7,70.5,111.2,Sandy,167.35
+2016,Bihar,D,Wheat,39.5,810.9,23.2,55.8,101.1,Clayey,223.12
+2018,Punjab,B,Maize,30.38,1027.6,25.6,80.2,85.2,Clayey,271.69
+2022,Punjab,D,Rice,6.16,733.7,23.1,78.5,58.1,Sandy,115.57
+2021,Uttar Pradesh,D,Wheat,21.02,923.6,22.5,57.7,143.2,Sandy,188.82
+2023,Punjab,E,Wheat,43.24,699.3,22.9,57.6,106.3,Loamy,227.24
+2022,Maharashtra,A,Rice,46.19,716.8,31.9,59.1,165.2,Clayey,280.29
+2019,Bihar,A,Maize,23.55,779.2,28.1,59.9,128.2,Clayey,214.34
+2016,Karnataka,C,Maize,24.3,903.1,23.1,74.5,116.5,Sandy,219.67
+2019,Punjab,E,Maize,45.96,1038.8,15.2,69.3,86.9,Clayey,295.54
+2022,Maharashtra,D,Wheat,29.56,819.3,18.8,73.8,67.1,Loamy,209.51
+2023,Karnataka,A,Wheat,2.13,500.0,27.0,71.7,93.5,Clayey,48.92
+2023,Bihar,D,Wheat,45.68,926.3,16.5,82.1,66.3,Sandy,208.44
+2015,Karnataka,A,Wheat,12.79,1290.8,26.2,54.4,119.5,Sandy,205.37
+2023,Maharashtra,A,Maize,29.09,821.7,20.7,68.8,149.0,Loamy,274.94
+2021,Karnataka,A,Rice,8.69,458.2,25.4,43.3,92.2,Loamy,128.32
+2023,Uttar Pradesh,E,Wheat,2.18,833.9,25.3,51.8,128.3,Clayey,81.26
+2022,Karnataka,B,Wheat,15.92,799.4,25.5,64.3,79.3,Clayey,162.35
+2015,Punjab,D,Maize,39.13,782.6,23.4,69.2,90.9,Sandy,218.57
+2022,Punjab,E,Rice,14.24,989.1,23.3,64.0,75.6,Loamy,248.15
+2022,Uttar Pradesh,E,Rice,11.39,1075.7,22.1,59.3,36.0,Loamy,227.97
+2017,Maharashtra,E,Maize,11.03,936.7,26.9,61.1,98.9,Loamy,203.39
+2015,Punjab,E,Maize,26.0,773.4,28.2,78.7,103.9,Clayey,214.41
+2022,Bihar,E,Rice,48.79,1025.1,20.1,61.2,132.0,Loamy,386.26
+2017,Punjab,C,Wheat,23.22,501.2,24.8,82.5,123.9,Sandy,139.8
+2017,Punjab,D,Rice,28.09,656.8,25.8,72.9,124.3,Sandy,204.48
+2015,Maharashtra,E,Maize,43.1,679.1,25.7,69.6,70.8,Clayey,219.22
+2019,Karnataka,D,Wheat,26.99,793.8,25.7,53.1,113.8,Clayey,204.72
+2021,Punjab,C,Wheat,9.63,901.3,23.4,74.4,147.5,Loamy,178.22
+2023,Uttar Pradesh,C,Maize,15.33,759.9,26.1,60.1,111.4,Clayey,190.76
+2021,Karnataka,D,Maize,15.84,618.8,27.5,53.1,154.9,Sandy,153.66
+2023,Bihar,A,Maize,20.17,995.0,25.6,70.1,160.6,Loamy,290.23
+2022,Maharashtra,B,Rice,21.63,752.9,27.0,51.1,91.9,Sandy,196.02
+2016,Bihar,A,Rice,40.09,820.4,29.0,57.4,79.1,Loamy,292.89
+2015,Karnataka,A,Wheat,17.79,910.2,17.6,64.9,77.2,Clayey,169.67
+2021,Karnataka,A,Maize,23.68,807.8,28.8,87.2,54.5,Loamy,227.34
+2021,Karnataka,E,Wheat,31.44,808.7,26.4,58.1,84.4,Loamy,217.85
+2022,Bihar,C,Wheat,19.2,1006.1,20.6,60.4,136.2,Sandy,197.01
+2019,Karnataka,A,Wheat,41.91,830.3,28.2,72.3,33.9,Sandy,181.61
+2017,Bihar,C,Wheat,29.58,972.6,23.4,52.6,68.9,Loamy,247.94
+2022,Karnataka,D,Maize,15.06,908.9,24.0,69.4,96.2,Clayey,216.74
+2020,Uttar Pradesh,B,Wheat,35.85,1203.4,23.0,77.1,73.7,Clayey,270.23
+2017,Karnataka,D,Maize,26.62,881.9,26.2,61.9,84.2,Sandy,208.93
+2015,Bihar,D,Maize,26.96,927.6,21.9,75.3,84.6,Clayey,244.8
+2017,Punjab,E,Rice,24.31,1020.3,28.6,67.9,92.3,Sandy,244.73
+2019,Karnataka,B,Maize,25.1,812.7,24.4,57.7,78.1,Clayey,220.89
+2017,Punjab,D,Rice,38.39,672.4,23.5,63.0,75.7,Loamy,258.64
+2015,Uttar Pradesh,D,Maize,5.6,705.2,28.0,61.2,128.0,Sandy,113.68
+2019,Maharashtra,B,Maize,17.05,707.1,23.7,64.1,131.5,Sandy,174.13
+2021,Uttar Pradesh,B,Maize,4.24,609.9,28.8,66.5,58.6,Loamy,100.88
+2021,Karnataka,D,Rice,37.79,863.6,28.9,70.9,17.2,Sandy,214.15
+2023,Punjab,B,Rice,13.98,674.1,19.7,70.1,131.9,Clayey,186.43
+2017,Punjab,D,Wheat,44.92,839.0,29.4,40.7,63.1,Clayey,211.94
+2021,Bihar,D,Rice,26.57,768.3,19.2,64.0,106.4,Sandy,216.97
+2015,Punjab,E,Rice,40.14,791.7,29.7,49.9,53.0,Clayey,236.96
+2018,Bihar,A,Rice,48.96,911.2,33.1,62.2,138.9,Sandy,293.09
+2018,Maharashtra,D,Rice,42.07,691.6,28.5,63.8,176.3,Loamy,316.24
+2019,Karnataka,C,Wheat,43.42,927.8,16.4,74.8,105.5,Sandy,214.15
+2021,Bihar,A,Rice,20.7,1113.5,29.3,64.7,97.2,Loamy,308.94
+2021,Maharashtra,A,Maize,27.81,868.6,34.0,67.6,90.3,Clayey,229.79
+2018,Punjab,A,Maize,13.07,643.6,23.8,72.9,123.5,Loamy,185.05
+2021,Punjab,E,Rice,10.21,677.0,24.9,77.3,117.0,Clayey,161.88
+2017,Maharashtra,D,Rice,25.52,750.3,20.2,63.8,130.1,Sandy,212.26
+2020,Punjab,E,Maize,29.95,681.0,26.2,65.9,81.2,Clayey,208.79
+2016,Maharashtra,D,Maize,17.29,601.8,30.1,65.1,110.2,Sandy,146.73
+2023,Bihar,E,Wheat,28.69,830.9,27.8,59.6,83.7,Sandy,175.16
+2019,Bihar,E,Maize,44.43,755.8,37.6,57.3,68.3,Loamy,247.01
+2020,Maharashtra,C,Maize,28.06,837.9,25.1,42.3,98.8,Loamy,258.27
+2018,Bihar,E,Rice,36.18,1037.3,18.5,54.2,72.3,Loamy,336.68
+2021,Bihar,B,Maize,40.36,752.7,25.7,47.2,135.2,Loamy,281.17
+2023,Bihar,C,Wheat,49.44,562.9,15.3,77.6,74.1,Clayey,165.53
+2021,Uttar Pradesh,E,Maize,30.36,720.2,22.9,66.9,110.9,Clayey,227.17
+2015,Karnataka,A,Rice,40.44,954.1,31.5,63.7,81.9,Clayey,294.86
+2015,Punjab,B,Rice,48.15,935.4,26.3,57.8,108.3,Sandy,296.43
+2023,Uttar Pradesh,B,Maize,47.25,903.7,25.7,65.3,84.3,Clayey,280.78
+2023,Bihar,B,Rice,7.48,675.1,32.3,56.5,62.3,Clayey,136.46
+2018,Maharashtra,C,Wheat,20.62,950.4,23.9,66.7,114.5,Clayey,217.79
+2023,Bihar,E,Wheat,16.54,995.4,30.0,67.5,92.9,Loamy,205.21
+2017,Karnataka,E,Maize,4.8,660.9,25.5,56.4,108.6,Clayey,110.4
+2021,Bihar,A,Maize,31.85,791.7,26.5,56.2,87.1,Sandy,203.4
+2020,Maharashtra,A,Maize,36.93,1204.1,20.1,74.6,60.2,Loamy,343.6
+2022,Karnataka,B,Rice,42.48,652.0,23.1,64.5,132.5,Sandy,233.43
+2023,Bihar,A,Wheat,6.58,459.0,19.4,57.2,122.1,Clayey,81.93
+2019,Karnataka,C,Wheat,43.88,1076.6,24.6,61.3,83.0,Loamy,304.99
+2015,Punjab,E,Rice,32.32,1027.3,26.6,54.9,102.1,Sandy,279.67
+2017,Punjab,B,Wheat,35.35,708.6,20.6,64.3,131.3,Clayey,202.97
+2022,Bihar,A,Maize,45.58,777.4,33.2,73.3,86.3,Sandy,215.57
+2020,Karnataka,C,Maize,31.43,555.0,26.1,64.7,90.9,Sandy,166.9
+2022,Maharashtra,C,Maize,17.13,817.8,25.2,88.6,107.3,Sandy,186.32
+2023,Bihar,A,Wheat,41.34,1033.2,28.1,69.2,86.2,Clayey,257.99
+2018,Punjab,E,Maize,18.47,691.5,21.7,67.3,125.7,Clayey,176.45
+2015,Punjab,A,Rice,2.19,975.4,25.7,55.9,94.9,Sandy,88.32
+2015,Bihar,B,Rice,41.62,892.7,22.1,62.6,76.5,Loamy,307.73
+2018,Karnataka,A,Wheat,17.59,915.6,31.2,57.2,118.3,Loamy,208.96
+2021,Punjab,C,Rice,38.8,703.1,20.8,43.3,65.7,Clayey,222.75
+2016,Karnataka,A,Rice,18.46,729.1,25.3,74.7,160.4,Clayey,223.53
+2017,Punjab,E,Wheat,43.12,430.6,26.3,59.9,147.5,Clayey,178.44
+2015,Punjab,D,Maize,11.37,686.7,26.6,57.4,115.4,Clayey,157.4
+2019,Uttar Pradesh,A,Maize,48.74,1032.7,22.7,67.1,112.9,Clayey,321.08
+2015,Punjab,E,Maize,39.1,614.1,21.4,70.1,111.5,Loamy,238.11
+2022,Maharashtra,E,Wheat,6.15,643.9,22.7,61.8,85.3,Clayey,95.82
+2015,Bihar,C,Rice,28.51,928.0,27.1,65.0,108.9,Sandy,263.02
+2015,Bihar,E,Maize,49.28,880.6,24.4,72.5,72.3,Sandy,245.18
+2016,Karnataka,E,Maize,23.82,938.0,28.2,61.4,115.1,Loamy,274.29
+2016,Punjab,E,Wheat,9.51,567.4,26.9,68.0,126.0,Sandy,110.88
+2020,Maharashtra,E,Maize,24.5,1312.8,15.9,48.4,88.7,Loamy,340.94
+2021,Karnataka,B,Wheat,25.87,556.8,26.0,52.6,82.1,Loamy,160.19
+2019,Uttar Pradesh,B,Rice,37.21,830.8,34.0,71.1,63.6,Sandy,222.96
+2015,Karnataka,C,Wheat,35.09,768.3,30.3,52.1,143.7,Clayey,224.1
+2015,Karnataka,A,Wheat,20.43,562.7,26.7,67.3,84.5,Sandy,130.24
+2017,Punjab,E,Wheat,11.29,726.0,20.8,63.5,94.0,Sandy,127.47
+2016,Uttar Pradesh,A,Wheat,32.43,804.7,26.9,61.4,109.0,Loamy,225.47
+2019,Karnataka,A,Rice,21.37,670.0,28.0,56.7,108.5,Sandy,193.1
+2020,Maharashtra,C,Rice,7.05,987.4,24.0,74.1,122.4,Loamy,199.95
+2021,Maharashtra,E,Maize,45.08,767.7,26.3,82.3,88.6,Clayey,250.62
+2018,Bihar,E,Rice,34.72,531.7,31.0,68.0,65.8,Clayey,182.72
+2021,Uttar Pradesh,D,Rice,34.32,514.8,21.6,68.2,60.6,Clayey,175.89
+2022,Uttar Pradesh,A,Maize,41.22,921.2,20.8,58.2,82.6,Sandy,235.61
+2015,Bihar,A,Rice,26.72,502.6,27.8,53.0,71.4,Loamy,178.38
+2020,Karnataka,B,Wheat,40.85,863.3,26.8,64.6,90.9,Clayey,229.72
+2022,Uttar Pradesh,D,Wheat,25.16,888.9,29.1,55.3,139.2,Loamy,231.83
+2019,Maharashtra,B,Maize,3.83,600.9,27.3,47.3,88.7,Loamy,89.35
+2018,Maharashtra,B,Maize,20.56,978.1,22.7,73.0,88.7,Clayey,234.86
+2016,Punjab,B,Maize,25.12,456.4,26.7,73.5,99.5,Clayey,144.38
+2020,Uttar Pradesh,C,Wheat,36.15,859.3,20.4,56.4,87.8,Loamy,242.2
+2020,Karnataka,C,Rice,5.78,791.8,24.0,67.4,98.0,Clayey,128.54
+2015,Bihar,B,Wheat,7.43,776.2,27.0,75.0,116.2,Loamy,139.33
+2023,Bihar,D,Maize,13.55,564.4,23.6,67.1,126.5,Loamy,169.84
+2020,Karnataka,A,Rice,13.69,612.6,34.9,53.1,130.1,Clayey,171.31
+2017,Punjab,D,Rice,36.74,1123.8,17.4,62.7,161.7,Sandy,325.36
+2018,Bihar,E,Wheat,12.91,1043.0,22.8,78.3,117.1,Clayey,202.23
+2018,Uttar Pradesh,C,Maize,31.84,948.4,21.2,67.5,167.0,Sandy,263.65
+2017,Punjab,A,Wheat,24.97,988.0,22.2,70.4,76.7,Loamy,241.49
+2017,Uttar Pradesh,A,Rice,28.88,969.2,22.4,68.4,162.7,Loamy,340.34
+2017,Maharashtra,E,Wheat,41.99,735.3,19.7,56.4,88.6,Sandy,182.03
+2018,Punjab,E,Wheat,20.52,809.5,28.0,58.8,91.5,Loamy,204.6
+2021,Bihar,B,Maize,38.66,505.5,22.8,68.4,96.4,Sandy,166.18
+2018,Punjab,C,Maize,21.39,782.1,25.7,73.2,93.4,Sandy,187.47
+2023,Punjab,C,Rice,18.02,1036.7,23.3,76.0,102.6,Loamy,293.86
+2015,Punjab,D,Wheat,47.95,667.9,22.2,56.4,82.6,Sandy,172.7
+2022,Punjab,B,Wheat,9.63,1004.6,31.7,69.3,124.9,Clayey,155.6
+2021,Uttar Pradesh,B,Wheat,4.97,818.3,28.7,76.9,83.4,Clayey,104.76
+2016,Maharashtra,B,Rice,38.66,522.9,17.5,55.1,119.7,Loamy,234.77
+2022,Karnataka,B,Rice,3.88,578.5,17.1,79.9,145.8,Loamy,104.26
+2015,Punjab,C,Maize,41.94,983.9,29.2,81.4,89.3,Sandy,262.83
+2023,Bihar,C,Maize,22.14,910.5,22.9,91.3,123.8,Sandy,221.85
+2023,Punjab,B,Maize,45.82,820.4,18.4,67.3,116.8,Sandy,229.05
+2016,Bihar,D,Wheat,36.22,745.2,29.2,67.4,167.6,Sandy,198.55
+2021,Uttar Pradesh,A,Wheat,30.72,842.1,25.7,73.3,84.9,Clayey,205.85
+2017,Bihar,A,Maize,47.49,976.1,26.0,73.0,123.9,Clayey,314.34
+2021,Karnataka,D,Wheat,20.13,1095.2,28.2,76.3,51.2,Loamy,226.77
+2023,Maharashtra,B,Maize,47.73,1104.7,19.8,72.8,85.1,Sandy,285.27
+2018,Bihar,C,Rice,7.18,874.4,18.5,63.9,110.6,Sandy,156.06
+2015,Bihar,A,Maize,24.45,765.6,31.3,77.2,141.8,Loamy,246.53
+2016,Maharashtra,E,Rice,13.86,829.2,19.3,54.3,63.2,Sandy,165.37
+2015,Karnataka,E,Wheat,27.22,904.4,20.1,65.1,123.6,Sandy,197.47
+2019,Punjab,D,Maize,8.52,903.6,20.9,80.6,98.1,Sandy,150.94
+2019,Bihar,B,Wheat,42.16,1061.6,33.3,52.5,54.4,Sandy,222.39
+2021,Maharashtra,A,Rice,42.4,1223.2,27.0,58.2,105.4,Sandy,341.21
+2023,Uttar Pradesh,B,Rice,47.78,758.9,28.9,71.7,151.3,Loamy,326.12
+2023,Maharashtra,A,Rice,8.16,1231.2,25.8,68.9,66.4,Sandy,190.17
+2017,Uttar Pradesh,D,Wheat,31.35,1034.4,22.6,56.2,96.7,Loamy,265.6
+2017,Karnataka,D,Wheat,23.97,779.8,27.5,60.8,70.4,Sandy,160.64
+2017,Punjab,E,Wheat,17.55,1099.7,18.8,53.2,85.9,Clayey,203.1
+2018,Maharashtra,B,Wheat,17.9,1137.1,20.6,74.8,143.0,Clayey,235.87
+2022,Bihar,E,Rice,20.93,707.9,27.9,62.4,91.9,Clayey,212.94
+2020,Karnataka,B,Rice,35.39,1146.4,19.6,82.9,142.0,Clayey,359.84
+2022,Maharashtra,E,Maize,30.12,1015.0,24.2,65.8,133.3,Loamy,317.79
+2015,Bihar,C,Maize,23.25,1273.7,24.4,62.8,89.1,Loamy,324.42
+2022,Maharashtra,C,Wheat,4.26,715.2,22.9,61.8,84.9,Sandy,87.43
+2018,Uttar Pradesh,C,Rice,4.35,729.3,17.2,62.6,73.1,Clayey,101.19
+2015,Maharashtra,C,Rice,0.62,394.7,22.5,66.1,72.1,Loamy,28.03
+2022,Maharashtra,A,Rice,48.4,914.2,21.7,90.1,110.6,Sandy,291.36
+2018,Maharashtra,C,Maize,0.76,875.1,25.6,61.6,99.4,Sandy,35.75
+2020,Karnataka,D,Maize,5.6,687.4,25.4,61.9,81.3,Loamy,122.81
+2022,Maharashtra,D,Rice,16.07,783.6,26.5,65.7,53.5,Clayey,181.41
+2018,Bihar,A,Rice,40.47,537.8,22.3,75.9,103.2,Sandy,195.08
+2017,Uttar Pradesh,C,Rice,48.12,1039.7,27.1,50.8,85.9,Clayey,341.19
+2023,Uttar Pradesh,C,Maize,39.61,702.1,18.8,69.6,94.1,Clayey,217.55
+2017,Maharashtra,C,Rice,34.68,1418.8,17.7,56.8,109.1,Clayey,397.91
+2023,Karnataka,E,Rice,26.3,764.9,15.7,70.5,24.9,Sandy,177.46
+2016,Karnataka,B,Wheat,4.79,648.1,23.0,60.1,54.0,Clayey,85.12
+2016,Bihar,E,Wheat,47.93,717.5,22.0,42.0,168.9,Sandy,214.6
+2016,Maharashtra,B,Maize,38.04,517.6,28.2,68.7,84.8,Clayey,173.45
+2020,Uttar Pradesh,C,Rice,32.13,896.5,22.4,68.6,24.5,Sandy,218.59
+2017,Karnataka,C,Rice,38.07,716.0,26.1,59.2,56.5,Clayey,233.47
+2023,Maharashtra,E,Wheat,36.34,1026.3,28.3,58.6,174.5,Loamy,312.26
+2018,Karnataka,E,Maize,32.04,745.1,22.3,51.9,78.9,Clayey,213.53
+2015,Karnataka,B,Wheat,49.04,1076.9,26.2,72.7,134.8,Clayey,311.02
+2018,Uttar Pradesh,D,Wheat,45.22,951.5,29.0,73.8,103.6,Sandy,219.86
+2015,Punjab,B,Wheat,32.51,805.7,20.0,56.2,85.5,Sandy,177.01
+2019,Bihar,E,Wheat,34.81,1116.0,25.1,59.6,123.3,Clayey,277.6
+2018,Bihar,E,Rice,3.05,990.5,22.3,64.4,28.5,Loamy,116.72
+2022,Uttar Pradesh,A,Rice,33.66,1389.2,20.3,87.7,56.8,Loamy,401.44
